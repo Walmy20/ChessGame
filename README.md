@@ -23,7 +23,6 @@ ChessGame
 │   ├── imgui_draw.cpp     # Drawing functions for ImGui
 │   ├── imgui_widgets.cpp   # Widget functions for ImGui
 │   └── imgui_impl_glfw.cpp # Integration of ImGui with GLFW
-│── backends
 |
 ├── assets
 │   
