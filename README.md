@@ -42,7 +42,7 @@ ChessGame
    ```
 
 2. **Install dependencies**:
-   Ensure you have CMake, GLFW, and the ImGui library installed on your system.
+   Ensure you have CMake, GLFW, and the OpenGL library installed on your system.
 
 3. **Build the project**:
    ```
