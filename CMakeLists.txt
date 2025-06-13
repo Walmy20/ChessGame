@@ -37,7 +37,6 @@ target_include_directories(ChessGame PRIVATE
     ${CMAKE_SOURCE_DIR}/src/ui
     ${CMAKE_SOURCE_DIR}/imgui
     ${CMAKE_SOURCE_DIR}/backends
-    ${CMAKE_SOURCE_DIR}/glfw/include
 )
 
 target_link_libraries(ChessGame PRIVATE imgui glfw OpenGL::GL)
